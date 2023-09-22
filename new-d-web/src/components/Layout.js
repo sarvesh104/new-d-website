@@ -7,8 +7,8 @@ import Answer from './Answer';
 const Layout = () => {
   return (
     <>
-    <Header />
-    <First />
+    {/* <Header />
+    <First /> */}
     <About/>
     <Answer/>
     </>
